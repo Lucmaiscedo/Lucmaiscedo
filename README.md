@@ -32,15 +32,6 @@ Atualmente, venho estudando e praticando com as seguintes linguagens de programa
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucmaiscedo&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucmaiscedo&layout=compact&theme=default" />
-</p>
-
----
-
 ## 🔗 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-macedo-b323ab332)  
